@@ -11,10 +11,9 @@ at Austin, USA.
 
 <h2>About this notebook</h2>
 
-In this notebook a ramdon normal variable (var) is generated from the np.random.normal function and its corresponding parameters (mean, standard deviation, bins plot, and number of sample). Then this variable is plotted in various ways, including in each plot the some statistical parameters of the variable. Additionally, in one of the histograms, the theoretical normal curve that correspond to the parameters of the variables is shown.
+In this notebook a random normal variable (var) is generated with the np.random.normal function and its corresponding parameters (mean, standard deviation, and number of sample). Then this variable is plotted in different ways, including in each case some statistical parameters of the variable. In one of the histograms the theoretical normal curve that corresponds to the parameters of the variables is shown for comparison.
 
-The best way to run the Notebook is changing the parameter in cell two and then run the whole notebook with the **Run All** option available in the **Cell** menu o fthe notebook.  
-
+The best way to run the notebook is changing the parameter in the second cell and then run the whole notebook with the *Run All* option available in the *Cell* menu of the notebook.  
 
 <h2>Libraries for notebook</h2>
 
