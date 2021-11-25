@@ -1,6 +1,6 @@
 <div class="cell markdown">
 
-<img src="portada.PNG" style="width:1000px" align="center">
+<img src="normal.PNG" style="width:1000px" align="center">
 
 <h1><center>Salinity conversions by three methods</h1></center>
 
